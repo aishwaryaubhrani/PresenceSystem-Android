@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213152463980",
+    "firebase_url": "https://realtimelocation-otherdevice.firebaseio.com",
+    "project_id": "realtimelocation-otherdevice",
+    "storage_bucket": "realtimelocation-otherdevice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213152463980:android:16d04ea762f03bf0caec49",
+        "android_client_info": {
+          "package_name": "com.example.realtimelocation_otherdevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213152463980-4vadsk742behl8l49e1503f1thbsp7gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimelocation_otherdevice",
+            "certificate_hash": "730d58110ad3804870908aa89f7bd2bf5cc58374"
+          }
+        },
+        {
+          "client_id": "213152463980-vkicsms12hqgeom8oosvs6b522mlfe7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP30HqWbQDuMj7C0xITEQKbn_SrZuTxxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213152463980-vkicsms12hqgeom8oosvs6b522mlfe7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
